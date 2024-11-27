@@ -12,6 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dbe944560a3bee4fbaf5d52d9b254ed, type: 3}
   m_Name: "\u0418\u043C\u044F"
   m_EditorClassIdentifier: 
-  <en>k__BackingField: Lunar ball
-  <ru>k__BackingField: "\u041B\u0443\u043D\u043D\u044B\u0439 \u0448\u0430\u0440"
-  <tr>k__BackingField: "\rAy topu"
+  <en>k__BackingField: 'Soap ball,
+
+    big trip'
+  <ru>k__BackingField: "\u041C\u044B\u043B\u044C\u043D\u044B\u0439 \u0448\u0430\u0440,
+    \n\u0431\u043E\u043B\u044C\u0448\u043E\u0435 \u043F\u0443\u0442\u0438\u0448\u0435\u0441\u0442\u0432\u0438\u0435"
+  <tr>k__BackingField: 'Sabun topu,
+
+    harika yolculuk'
